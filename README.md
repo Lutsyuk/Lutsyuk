@@ -4,7 +4,8 @@
 ## I'm a QA Engineer. 
 
 
-## My CV(https://drive.google.com/file/d/1ziP1uPsMHtQUVNktIncPBrb8KLx31Ubh/view?usp=sharing)
+## My CV
+![Header](https://drive.google.com/file/d/1ziP1uPsMHtQUVNktIncPBrb8KLx31Ubh/view?usp=sharing)
 
 
 ### Language and Tools
