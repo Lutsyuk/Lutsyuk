@@ -27,7 +27,7 @@
 - Test-Suites and Test-Cases
 - Bug-Reports
 - SQL Queries
-- [Postman Collections]
+- [Postman Collections](https://github.com/Lutsyuk/Lutsyuk/tree/main/PostmanCollection)
 
 
 ### Follow Me
